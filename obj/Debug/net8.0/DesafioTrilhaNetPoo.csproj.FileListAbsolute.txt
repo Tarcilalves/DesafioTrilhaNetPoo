@@ -12,3 +12,4 @@ C:\Users\User\Documents\DesafioTrilhaNetPoo\obj\Debug\net8.0\refint\DesafioTrilh
 C:\Users\User\Documents\DesafioTrilhaNetPoo\obj\Debug\net8.0\DesafioTrilhaNetPoo.pdb
 C:\Users\User\Documents\DesafioTrilhaNetPoo\obj\Debug\net8.0\DesafioTrilhaNetPoo.genruntimeconfig.cache
 C:\Users\User\Documents\DesafioTrilhaNetPoo\obj\Debug\net8.0\ref\DesafioTrilhaNetPoo.dll
+C:\Users\User\Documents\DesafioTrilhaNetPoo\obj\Debug\net8.0\DesafioTrilhaNetPoo.sourcelink.json
