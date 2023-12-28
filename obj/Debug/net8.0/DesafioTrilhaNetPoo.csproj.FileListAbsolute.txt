@@ -1,0 +1,14 @@
+C:\Users\User\Documents\DesafioTrilhaNetPoo\bin\Debug\net8.0\DesafioTrilhaNetPoo.exe
+C:\Users\User\Documents\DesafioTrilhaNetPoo\bin\Debug\net8.0\DesafioTrilhaNetPoo.deps.json
+C:\Users\User\Documents\DesafioTrilhaNetPoo\bin\Debug\net8.0\DesafioTrilhaNetPoo.runtimeconfig.json
+C:\Users\User\Documents\DesafioTrilhaNetPoo\bin\Debug\net8.0\DesafioTrilhaNetPoo.dll
+C:\Users\User\Documents\DesafioTrilhaNetPoo\bin\Debug\net8.0\DesafioTrilhaNetPoo.pdb
+C:\Users\User\Documents\DesafioTrilhaNetPoo\obj\Debug\net8.0\DesafioTrilhaNetPoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\DesafioTrilhaNetPoo\obj\Debug\net8.0\DesafioTrilhaNetPoo.AssemblyInfoInputs.cache
+C:\Users\User\Documents\DesafioTrilhaNetPoo\obj\Debug\net8.0\DesafioTrilhaNetPoo.AssemblyInfo.cs
+C:\Users\User\Documents\DesafioTrilhaNetPoo\obj\Debug\net8.0\DesafioTrilhaNetPoo.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\DesafioTrilhaNetPoo\obj\Debug\net8.0\DesafioTrilhaNetPoo.dll
+C:\Users\User\Documents\DesafioTrilhaNetPoo\obj\Debug\net8.0\refint\DesafioTrilhaNetPoo.dll
+C:\Users\User\Documents\DesafioTrilhaNetPoo\obj\Debug\net8.0\DesafioTrilhaNetPoo.pdb
+C:\Users\User\Documents\DesafioTrilhaNetPoo\obj\Debug\net8.0\DesafioTrilhaNetPoo.genruntimeconfig.cache
+C:\Users\User\Documents\DesafioTrilhaNetPoo\obj\Debug\net8.0\ref\DesafioTrilhaNetPoo.dll
