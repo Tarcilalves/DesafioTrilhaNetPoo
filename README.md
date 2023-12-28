@@ -66,3 +66,23 @@ Console.WriteLine("Smartphone iPhone:");
 Smartphone iphone = new Iphone(numero: "123456789", modelo: "iPhone X", imei: "IMEI123", memoria: 64);
 iphone.Ligar();
 iphone.InstalarAplicativo("iPhone");
+
+```
+
+![ProgramDesafioTrilha](https://github.com/Tarcilalves/DesafioTrilhaNetPoo/assets/107896645/4c66d777-319b-4b1a-8482-71f1f9c74733)
+
+
+
+# Material de Apoio
+
+### ChatGPT
+
+Para obter suporte usando ChatGPT ou discutir ideias, visite o ChatGPT:
+
+[ChatGPT](https://www.chatbot.com/chatgpt)
+
+
+## Contribuição
+
+Saiba como contribuir para este projeto [LinkedIn](https://www.linkedin.com/in/tarcilacardosoalves/)
+
