@@ -11,7 +11,9 @@ Você é responsável por modelar um sistema que trabalha com celulares. Para is
 Você precisa criar um sistema em .NET, do tipo console, mapeando uma classe abstrata e classes específicas para dois tipos de celulares: Nokia e iPhone. 
 Você deve criar as suas classes de acordo com o diagrama abaixo:
 
-![diagrama](https://github.com/Tarcilalves/DesafioTrilhaNetPoo/assets/107896645/21d6ba30-1dd5-42ab-921b-0754fbb482db)
+
+![diagrama](https://github.com/Tarcilalves/DesafioTrilhaNetPoo/assets/107896645/1407b538-5fc4-4683-b4f6-9f0a3c5fac0e)
+
 
 
 ## Regras e validações
@@ -21,3 +23,46 @@ Você deve criar as suas classes de acordo com o diagrama abaixo:
 
 ## Solução
 O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
+
+<
+
+# Implementação do Desafio Trilha .NET
+
+Este é um exemplo simples de uma solução em C# que demonstra conceitos de orientação a objetos para modelar diferentes smartphones. A solução inclui classes abstratas, herança e polimorfismo para representar smartphones de diferentes marcas.
+
+## Estrutura do Projeto
+
+O projeto está organizado da seguinte maneira:
+
+- **DesafioTrilhaNetPoo:** O projeto principal que contém a lógica do programa.
+  - **Models:**
+    - `Smartphone.cs`: A classe abstrata base que define propriedades e métodos comuns a todos os smartphones.
+    - `Nokia.cs`: Uma classe que herda de `Smartphone` e implementa o método `InstalarAplicativo` para a loja da Nokia.
+    - `Iphone.cs`: Uma classe que herda de `Smartphone` e implementa o método `InstalarAplicativo` para a App Store do iPhone.
+  - **Program.cs:** A classe de entrada (`Main`) que demonstra como usar as classes definidas.
+
+## Como Executar o Programa
+
+Certifique-se de ter o .NET SDK instalado em sua máquina. Você pode baixá-lo em [dotnet.microsoft.com](https://dotnet.microsoft.com/download).
+
+1. Abra o terminal e navegue até o diretório do projeto.
+2. Execute `dotnet build` para compilar o projeto.
+3. Execute `dotnet run` para executar o programa.
+
+## Exemplo de Uso no Programa Principal
+
+```csharp
+using System;
+using DesafioTrilhaNetPoo.Models;
+
+Console.WriteLine("Smartphone Nokia:");
+Smartphone nokia = new Nokia(numero: "987654321", modelo: "Nokia 3310", imei: "IMEI987", memoria: 36);
+nokia.Ligar();
+nokia.InstalarAplicativo("Nokia");
+
+Console.WriteLine("\n");
+
+Console.WriteLine("Smartphone iPhone:");
+Smartphone iphone = new Iphone(numero: "123456789", modelo: "iPhone X", imei: "IMEI123", memoria: 64);
+iphone.Ligar();
+iphone.InstalarAplicativo("iPhone");
