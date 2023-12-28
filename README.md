@@ -12,7 +12,8 @@ Você precisa criar um sistema em .NET, do tipo console, mapeando uma classe abs
 Você deve criar as suas classes de acordo com o diagrama abaixo:
 
 
-![diagrama](https://github.com/Tarcilalves/DesafioTrilhaNetPoo/assets/107896645/1407b538-5fc4-4683-b4f6-9f0a3c5fac0e)
+![diagrama](https://github.com/Tarcilalves/DesafioTrilhaNetPoo/assets/107896645/cd66f542-7b63-4b0f-879c-40ad3e45cf29)
+
 
 
 
@@ -68,11 +69,12 @@ iphone.Ligar();
 iphone.InstalarAplicativo("iPhone");
 
 ```
+<br><br>
+![ProgramDesafioTrilha](https://github.com/Tarcilalves/DesafioTrilhaNetPoo/assets/107896645/acf89ff1-b4ed-4559-8765-c2e9abc4508d)
 
-![ProgramDesafioTrilha](https://github.com/Tarcilalves/DesafioTrilhaNetPoo/assets/107896645/4c66d777-319b-4b1a-8482-71f1f9c74733)
 
 
-
+<br><br>
 # Material de Apoio
 
 ### ChatGPT
