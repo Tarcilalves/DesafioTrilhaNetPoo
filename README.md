@@ -1,3 +1,4 @@
+
 # DIO - Trilha .NET - Programação orientada a objetos
 www.dio.me
 
@@ -59,6 +60,7 @@ Console.WriteLine("Smartphone Nokia:");
 Smartphone nokia = new Nokia(numero: "987654321", modelo: "Nokia 3310", imei: "IMEI987", memoria: 36);
 nokia.Ligar();
 nokia.InstalarAplicativo("Nokia");
+nokia.ReceberLigacao("Nokia");
 
 Console.WriteLine("\n");
 
@@ -66,10 +68,16 @@ Console.WriteLine("Smartphone iPhone:");
 Smartphone iphone = new Iphone(numero: "123456789", modelo: "iPhone X", imei: "IMEI123", memoria: 64);
 iphone.Ligar();
 iphone.InstalarAplicativo("iPhone");
+iphone.ReceberLigacao("Iphome");
 
 ```
 <br><br>
-![ProgramDesafioTrilha](https://github.com/Tarcilalves/DesafioTrilhaNetPoo/assets/107896645/acf89ff1-b4ed-4559-8765-c2e9abc4508d)
+![ProgramDesafioTrilha](https://github.com/Tarcilalves/DesafioTrilhaNetPoo/assets/107896645/1a1b9755-927a-425c-ae41-b0d645b26414)
+
+
+
+
+
 
 
 
@@ -79,6 +87,8 @@ iphone.InstalarAplicativo("iPhone");
 ### ChatGPT
 
 Para obter suporte usando ChatGPT ou discutir ideias, visite o ChatGPT:
+
+Grupo Decola Tech e Comunidade 
 
 [ChatGPT](https://www.chatbot.com/chatgpt)
 
