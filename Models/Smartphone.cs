@@ -7,16 +7,8 @@ namespace DesafioTrilhaNetPoo.Models
 {
      public abstract class Smartphone
     {
-        //Atributos
-        public string Numero { get; set; }
-        // TODO: Implementar as propriedades faltantes de acordo com o diagrama
-        private string Modelo { get; set; }
-        private string IMEI { get; set; }
-        private int Memoria { get; set; }
 
-
-
-        // Construtor
+           // Construtor
         public Smartphone(string numero, string modelo, string imei, int memoria)
         {//parâmetros do tipo 
             Numero = numero;
@@ -26,6 +18,16 @@ namespace DesafioTrilhaNetPoo.Models
             Memoria = memoria;            
         }
 
+        //Atributos
+        public string Numero { get; set; }
+        // TODO: Implementar as propriedades faltantes de acordo com o diagrama
+        private string Modelo { get; set; }
+        private string IMEI { get; set; }
+        private int Memoria { get; set; }
+
+
+
+     
         //Métodos
 
         public void Ligar()
